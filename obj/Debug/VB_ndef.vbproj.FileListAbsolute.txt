@@ -1,0 +1,12 @@
+C:\Users\Projekat\Desktop\VS_C#_Projects\VB_ndef\VB_ndef\bin\Debug\VB_ndef.exe.config
+C:\Users\Projekat\Desktop\VS_C#_Projects\VB_ndef\VB_ndef\bin\Debug\VB_ndef.exe
+C:\Users\Projekat\Desktop\VS_C#_Projects\VB_ndef\VB_ndef\bin\Debug\VB_ndef.pdb
+C:\Users\Projekat\Desktop\VS_C#_Projects\VB_ndef\VB_ndef\bin\Debug\VB_ndef.xml
+C:\Users\Projekat\Desktop\VS_C#_Projects\VB_ndef\VB_ndef\obj\Debug\VB_ndef.vbprojAssemblyReference.cache
+C:\Users\Projekat\Desktop\VS_C#_Projects\VB_ndef\VB_ndef\obj\Debug\VB_ndef.Form1.resources
+C:\Users\Projekat\Desktop\VS_C#_Projects\VB_ndef\VB_ndef\obj\Debug\VB_ndef.Resources.resources
+C:\Users\Projekat\Desktop\VS_C#_Projects\VB_ndef\VB_ndef\obj\Debug\VB_ndef.vbproj.GenerateResource.cache
+C:\Users\Projekat\Desktop\VS_C#_Projects\VB_ndef\VB_ndef\obj\Debug\VB_ndef.vbproj.CoreCompileInputs.cache
+C:\Users\Projekat\Desktop\VS_C#_Projects\VB_ndef\VB_ndef\obj\Debug\VB_ndef.exe
+C:\Users\Projekat\Desktop\VS_C#_Projects\VB_ndef\VB_ndef\obj\Debug\VB_ndef.xml
+C:\Users\Projekat\Desktop\VS_C#_Projects\VB_ndef\VB_ndef\obj\Debug\VB_ndef.pdb
